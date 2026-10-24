@@ -1,7 +1,12 @@
 <div align="center">
 
-  <!-- ===== HEADER BANNER (Cosmic Nebula Gradient: Deep Space Void -> Nebula Purple -> Neon Magenta Ring -> Starlight) ===== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12072b,35:581c87,70:9333ea,100:e879f9&height=220&section=header&text=Haii,%20aku%20Aiss!%20%E2%9C%A8&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mahasiswa%20Teknologi%20Informasi%20%E2%80%A2%20Pencari%20Hal-Hal%20Seru%20%F0%9F%A4%AD&descAlignY=62&descAlign=50" width="100%" alt="Header Banner Aiss - Cosmic Theme" />
+  <!-- ===== HERO GALAXY BANNER (Deep Space Artwork) ===== -->
+  <img src="./assets/galaxy_banner.png" width="100%" style="border-radius: 16px; border: 2px solid #7c3aed; box-shadow: 0 0 20px rgba(217, 70, 239, 0.4);" alt="Aiss Cosmic Galaxy Banner" />
+
+  <br/><br/>
+
+  <!-- ===== HEADER WAVING BANNER ===== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12072b,35:581c87,70:9333ea,100:e879f9&height=200&section=header&text=Haii,%20aku%20Aiss!%20%E2%9C%A8&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mahasiswa%20Teknologi%20Informasi%20%E2%80%A2%20Pencari%20Hal-Hal%20Seru%20%F0%9F%A4%AD&descAlignY=62&descAlign=50" width="100%" alt="Header Wave Aiss" />
 
   <!-- ===== TYPING SVG ANIMATION ===== -->
   <a href="https://github.com/Ais1007">
@@ -37,7 +42,7 @@
       <p align="center">
         <b>꒰ 🪐 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒 🪐 ꒱</b>
       </p>
-      <img src="https://github.com/Ais1007.png?size=240" width="160px" style="border-radius:50%; border: 3px solid #d946ef;" alt="Aiss Avatar" />
+      <img src="https://github.com/Ais1007.png?size=240" width="160px" style="border-radius:50%; border: 3px solid #d946ef; box-shadow: 0 0 16px rgba(217, 70, 239, 0.6);" alt="Aiss Avatar" />
       <br/><br/>
       <b>Aiss (Ais Syahrizta Aira)</b><br/>
       <sub>💻 <i>Mahasiswa Teknologi Informasi</i></sub><br/>
@@ -206,9 +211,23 @@ console.log(`Halo Dunia! Aku ${aiss.namaPanggilan}, ${aiss.deskripsiDiri}`);
 
 <br/>
 
-<!-- ===== CATATAN SERU / VIBE QUOTE ===== -->
-> 🤭 **Catatan Seru Aiss:**  
-> *"Dunia teknologi itu luas banget, selalu ada hal baru dan seru buat dieksplor tiap harinya. Jangan takut salah pas ngoding, karena setiap error cuma cara komputer bilang: 'ayo coba cara yang lebih seru!' ✨"*
+<!-- ===== CATATAN SERU & GALAXY VISUAL CARD ===== -->
+<table width="100%">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./assets/galaxy_planet.png" width="170px" style="border-radius: 16px; border: 2px solid #d946ef; box-shadow: 0 0 15px rgba(217, 70, 239, 0.5);" alt="Cosmic Planet Illustration" />
+    </td>
+    <td width="70%" valign="middle">
+      <h3>🪐 ⋆｡° Catatan Seru &amp; Filosofi Kosmik Aiss</h3>
+      <blockquote>
+        <p>
+          🤭 <i>"Dunia teknologi itu luas banget, selalu ada hal baru dan seru buat dieksplor tiap harinya. Jangan takut salah pas ngoding, karena setiap error cuma cara komputer bilang: 'ayo coba cara yang lebih seru!' ✨"</i>
+        </p>
+      </blockquote>
+      <p><sub>🚀 <i>Menjelajah baris kode, menembus batas rasa ingin tahu.</i></sub></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
