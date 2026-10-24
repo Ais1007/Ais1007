@@ -1,12 +1,9 @@
 <div align="center">
 
-  <!-- ===== HERO GALAXY BANNER (Deep Space Artwork) ===== -->
-  <img src="./assets/galaxy_banner.png" width="100%" style="border-radius: 16px; border: 2px solid #7c3aed; box-shadow: 0 0 20px rgba(217, 70, 239, 0.4);" alt="Aiss Cosmic Galaxy Banner" />
+  <!-- ===== HERO GALAXY HEADER BANNER (Merged with Typography & Neon Cosmic Theme) ===== -->
+  <img src="./assets/galaxy_header_banner.png" width="100%" alt="Aiss Cosmic Galaxy Header Banner" />
 
   <br/><br/>
-
-  <!-- ===== HEADER WAVING BANNER ===== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12072b,35:581c87,70:9333ea,100:e879f9&height=200&section=header&text=Haii,%20aku%20Aiss!%20%E2%9C%A8&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mahasiswa%20Teknologi%20Informasi%20%E2%80%A2%20Pencari%20Hal-Hal%20Seru%20%F0%9F%A4%AD&descAlignY=62&descAlign=50" width="100%" alt="Header Wave Aiss" />
 
   <!-- ===== TYPING SVG ANIMATION ===== -->
   <a href="https://github.com/Ais1007">
