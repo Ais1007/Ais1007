@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- ===== HERO SAPPHIRE GALAXY HEADER BANNER ===== -->
-  <img src="./assets/sapphire_galaxy_banner_simple.png" width="100%" alt="Aiss Sapphire Galaxy Header Banner" />
+  <!-- ===== HERO SAPPHIRE HEADER BANNER (SIMPLE) ===== -->
+  <img src="./assets/sapphire_header_simple.svg" width="100%" alt="Haii, aku Aiss! - Mahasiswa Teknologi Informasi" />
 
   <br/>
 
