@@ -1,22 +1,22 @@
 <div align="center">
 
-  <!-- ===== HERO SAPPHIRE HEADER BANNER (SIMPLE) ===== -->
-  <img src="./assets/sapphire_header_simple.svg" width="100%" alt="Haii, aku Aiss! - Mahasiswa Teknologi Informasi" />
+  <!-- ===== HERO PASTEL HEADER BANNER (SIMPLE) ===== -->
+  <img src="./assets/pastel_header_simple.svg" width="100%" alt="Haii, aku Aiss! - Mahasiswa Teknologi Informasi" />
 
   <br/>
 
   <!-- ===== TYPING SVG ANIMATION ===== -->
   <a href="https://github.com/Ais1007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Haii!+Selamat+datang+di+profil+GitHub-ku+%E2%9C%A8;Nama+panggilanku+Aiss+(%40Ais1007)+%F0%9F%A9%B7;Mahasiswa+Teknologi+Informasi+%F0%9F%8E%93%F0%9F%92%BB;Pencari+hal-hal+seru+%F0%9F%A4%AD%E2%9C%A8;Coding+%E2%80%A2+Exploring+%E2%80%A2+Creating+Cool+Stuff+%F0%9F%8E%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=8B7FD6&center=true&vCenter=true&width=650&lines=Haii!+Selamat+datang+di+profil+GitHub-ku+%E2%9C%A8;Nama+panggilanku+Aiss+(%40Ais1007)+%F0%9F%A9%B7;Mahasiswa+Teknologi+Informasi+%F0%9F%8E%93%F0%9F%92%BB;Pencari+hal-hal+seru+%F0%9F%A4%AD%E2%9C%A8;Coding+%E2%80%A2+Exploring+%E2%80%A2+Creating+Cool+Stuff+%F0%9F%8E%A8" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- ===== PROFILE BADGES ===== -->
-  <img src="https://img.shields.io/badge/NICKNAME-AISS-0284C7?style=for-the-badge&logo=codeforces&logoColor=ffffff" alt="Nickname Aiss" />
-  <img src="https://img.shields.io/badge/STATUS-MAHASISWA_TI-2563EB?style=for-the-badge&logo=googlescholar&logoColor=ffffff" alt="Mahasiswa TI" />
+  <img src="https://img.shields.io/badge/NICKNAME-AISS-4F6FB0?style=for-the-badge&logo=codeforces&logoColor=ffffff" alt="Nickname Aiss" />
+  <img src="https://img.shields.io/badge/STATUS-MAHASISWA_TI-6A63C4?style=for-the-badge&logo=googlescholar&logoColor=ffffff" alt="Mahasiswa TI" />
   <a href="https://github.com/Ais1007">
-    <img src="https://komarev.com/ghpvc/?username=Ais1007&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Ais1007&style=for-the-badge&color=A8559E&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 
 </div>
@@ -55,14 +55,14 @@ Bahasa pemrograman dan tools yang sedang dipelajari:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode,figma&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode,figma&theme=light" alt="Skill Icons" />
   </a>
 </div>
 
 ## Statistik GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ais1007&show_icons=true&hide_border=true&border_radius=12&bg_color=060D1F&title_color=38BDF8&icon_color=60A5FA&text_color=BAE6FD" alt="Aiss's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ais1007&layout=compact&hide_border=true&border_radius=12&bg_color=060D1F&title_color=38BDF8&text_color=BAE6FD" alt="Aiss's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ais1007&show_icons=true&hide_border=true&border_radius=12&bg_color=F7F5FF&title_color=8B5CF6&icon_color=F472B6&text_color=4B3F72" alt="Aiss's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ais1007&layout=compact&hide_border=true&border_radius=12&bg_color=F7F5FF&title_color=8B5CF6&text_color=4B3F72" alt="Aiss's Top Languages" />
 </div>
 
 ## Sedang Dipelajari
@@ -78,15 +78,15 @@ Bahasa pemrograman dan tools yang sedang dipelajari:
 <div align="center">
   <p>Terbuka untuk diskusi dan kolaborasi seputar teknologi.</p>
   <a href="mailto:aissyahriztaaira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Aiss-0284C7?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email Aiss" />
+    <img src="https://img.shields.io/badge/Email-Aiss-4F6FB0?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email Aiss" />
   </a>
   <a href="https://github.com/Ais1007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ais1007-2563EB?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub Ais1007" />
+    <img src="https://img.shields.io/badge/GitHub-Ais1007-6A63C4?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub Ais1007" />
   </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,40:1d4ed8,75:0284c7,100:38bdf8&height=90&section=footer" width="100%" alt="Sapphire footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3e5fc,40:bfbaf5,75:faaff5,100:f2fabe&height=90&section=footer" width="100%" alt="Pastel footer" />
   <sub>Terima kasih sudah berkunjung! 🌌</sub>
 </div>
