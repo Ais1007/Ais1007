@@ -63,6 +63,13 @@ Bahasa pemrograman dan tools yang sedang dipelajari:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ais1007&show_icons=true&hide_border=true&border_radius=12&bg_color=F7F5FF&title_color=8B5CF6&icon_color=F472B6&text_color=4B3F72" alt="Aiss's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ais1007&layout=compact&hide_border=true&border_radius=12&bg_color=F7F5FF&title_color=8B5CF6&text_color=4B3F72" alt="Aiss's Top Languages" />
+
+  <br/><br/>
+
+  <!-- ===== STREAK STATS CARD (CREAM & ORANGE) ===== -->
+  <a href="https://github.com/Ais1007">
+    <img src="https://streak-stats.demolab.com/?user=Ais1007&background=FDF6E7&border=0D1117&stroke=A10325&ring=D97127&fire=D97127&currStreakNum=A10325&sideNums=D97127&currStreakLabel=A10325&sideLabels=40150A&dates=666666&border_radius=12&card_width=510&card_height=207" alt="Aiss's GitHub Streak" />
+  </a>
 </div>
 
 ## Sedang Dipelajari
