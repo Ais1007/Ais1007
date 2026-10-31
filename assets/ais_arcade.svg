@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="170" viewBox="0 0 860 170">
+  <title>AIS — contribution graph arcade</title>
+  <defs>
+    <pattern id="cell" width="15" height="15" patternUnits="userSpaceOnUse">
+      <rect width="13" height="13" rx="2" fill="#161b22"/>
+    </pattern>
+    <rect id="lit" width="13" height="13" rx="2" fill="#5DEEFC"/>
+    <rect id="pellet" width="4" height="4" rx="2" fill="#5DEEFC"/>
+    <rect id="toast" width="13" height="13" rx="2" fill="none"/>
+  </defs>
+
+  <rect width="860" height="170" rx="16" fill="#0d1117"/>
+  <rect x="0.75" y="0.75" width="858.5" height="168.5" rx="15.25" fill="none" stroke="#5DEEFC" stroke-opacity="0.25"/>
+
+  <!-- empty contribution grid -->
+  <rect x="20" y="28" width="808" height="103" fill="url(#cell)"/>
+
+  <!-- ===== A I S lit cells ===== -->
+  <g>
+    <!-- A -->
+    <use href="#lit" x="305" y="28"/><use href="#lit" x="320" y="28"/><use href="#lit" x="335" y="28"/>
+    <use href="#lit" x="290" y="43"/><use href="#lit" x="350" y="43"/>
+    <use href="#lit" x="290" y="58"/><use href="#lit" x="350" y="58"/>
+    <use href="#lit" x="290" y="73"/><use href="#lit" x="305" y="73"/><use href="#lit" x="320" y="73"/><use href="#lit" x="335" y="73"/><use href="#lit" x="350" y="73"/>
+    <use href="#lit" x="290" y="88"/><use href="#lit" x="350" y="88"/>
+    <use href="#lit" x="290" y="103"/><use href="#lit" x="350" y="103"/>
+    <use href="#lit" x="290" y="118"/><use href="#lit" x="350" y="118"/>
+    <!-- I -->
+    <use href="#lit" x="380" y="28"/><use href="#lit" x="395" y="28"/><use href="#lit" x="410" y="28"/>
+    <use href="#lit" x="395" y="43"/><use href="#lit" x="395" y="58"/><use href="#lit" x="395" y="73"/>
+    <use href="#lit" x="395" y="88"/><use href="#lit" x="395" y="103"/>
+    <use href="#lit" x="380" y="118"/><use href="#lit" x="395" y="118"/><use href="#lit" x="410" y="118"/>
+    <!-- S -->
+    <use href="#lit" x="440" y="28"/><use href="#lit" x="455" y="28"/><use href="#lit" x="470" y="28"/><use href="#lit" x="485" y="28"/><use href="#lit" x="500" y="28"/>
+    <use href="#lit" x="440" y="43"/><use href="#lit" x="440" y="58"/>
+    <use href="#lit" x="455" y="73"/><use href="#lit" x="470" y="73"/><use href="#lit" x="485" y="73"/>
+    <use href="#lit" x="500" y="88"/><use href="#lit" x="500" y="103"/>
+    <use href="#lit" x="440" y="118"/><use href="#lit" x="455" y="118"/><use href="#lit" x="470" y="118"/><use href="#lit" x="485" y="118"/><use href="#lit" x="500" y="118"/>
+  </g>
+
+  <!-- stray contributions -->
+  <rect x="620" y="43" width="13" height="13" rx="2" fill="#5DEEFC" opacity="0.35"/>
+  <rect x="680" y="73" width="13" height="13" rx="2" fill="#5DEEFC" opacity="0.2"/>
+  <rect x="740" y="58" width="13" height="13" rx="2" fill="#5DEEFC" opacity="0.45"/>
+  <rect x="785" y="103" width="13" height="13" rx="2" fill="#5DEEFC" opacity="0.25"/>
+
+  <!-- ===== pellets along the travel row (y center 79.5) ===== -->
+  <g opacity="0.95">
+    <use href="#pellet" x="188" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.061;0.067;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="218" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.106;0.112;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="248" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.151;0.157;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="278" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.197;0.203;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="365" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.329;0.335;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="425" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.420;0.426;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="545" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.602;0.608;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="575" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.647;0.653;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="605" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.692;0.698;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="635" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.738;0.744;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="665" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.783;0.789;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="695" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.829;0.835;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="725" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.874;0.880;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="755" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.920;0.926;1" dur="9s" repeatCount="indefinite"/></use>
+    <use href="#pellet" x="785" y="77.5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.965;0.971;1" dur="9s" repeatCount="indefinite"/></use>
+  </g>
+
+  <!-- ===== Pac-Man: travels x 130 -> 800, chomping ===== -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 660,0" dur="9s" repeatCount="indefinite"/>
+    <path fill="#F5D547" d="M146,79.5 L157.4,74.5 A11,11 0 1,1 157.4,84.5 Z">
+      <animate attributeName="d" dur="0.4s" repeatCount="indefinite"
+        values="M146,79.5 L157.4,74.5 A11,11 0 1,1 157.4,84.5 Z;
+                M146,79.5 L157,78.4 A11,11 0 1,1 157,80.6 Z;
+                M146,79.5 L157.4,74.5 A11,11 0 1,1 157.4,84.5 Z"/>
+    </path>
+  </g>
+
+  <!-- ===== Ghost: trails behind Pac-Man ===== -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-90,0; 570,0" dur="9s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,3; 0,0" dur="1.6s" repeatCount="indefinite"/>
+      <path fill="#5DEEFC" opacity="0.9" d="M146,82 a10,10 0 0 1 20,0 v16 l-4,-3 -3,3 -3,-3 -3,3 -3,-3 -4,3 z"/>
+      <circle cx="152" cy="84" r="2" fill="#0d1117"/>
+      <circle cx="160" cy="84" r="2" fill="#0d1117"/>
+    </g>
+  </g>
+
+  <text x="20" y="150" fill="#7DE8F5" font-family="monospace,Consolas,monospace" font-size="11" opacity="0.7">contributions · arcade mode ON</text>
+</svg>

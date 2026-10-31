@@ -42,6 +42,11 @@
 
   <br/><br/>
 
+  <!-- ===== ARCADE CONTRIBUTION GRAPH ===== -->
+  <img src="./assets/ais_arcade.svg" width="100%" alt="AIS arcade contribution graph" />
+
+  <br/>
+
   <img src="./assets/ais.svg" width="100%" alt="AIS — Ais1007" />
 
 </div>
