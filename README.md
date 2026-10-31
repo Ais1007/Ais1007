@@ -23,6 +23,31 @@
 
 <br/>
 
+<div align="center">
+
+  <!-- ===== CYAN NAME ART (#5DEEFC) ===== -->
+  <p><i>Senang kalau kamu mau menyapa 💙</i></p>
+
+  <a href="mailto:aissyahriztaaira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ais1007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/aisrzt_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <br/><br/>
+
+  <img src="./assets/ais.svg" width="100%" alt="AIS — Ais1007" />
+
+</div>
+
+<br/>
+
 ---
 
 ## Tentang Saya

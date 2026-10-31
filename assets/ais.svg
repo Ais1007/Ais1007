@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180">
+  <title>AIS — Ais1007</title>
+  <rect width="640" height="180" rx="16" fill="#0d1117"/>
+  <rect x="0.75" y="0.75" width="638.5" height="178.5" rx="15.25" fill="none" stroke="#5DEEFC" stroke-opacity="0.25"/>
+  <defs>
+    <rect id="b" width="12" height="12" rx="2" fill="#5DEEFC"/>
+  </defs>
+  <g>
+
+    <use href="#b" x="230" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.06s" repeatCount="indefinite"/></use>
+    <use href="#b" x="244" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.12s" repeatCount="indefinite"/></use>
+    <use href="#b" x="258" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.18s" repeatCount="indefinite"/></use>
+    <use href="#b" x="216" y="40"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0s" repeatCount="indefinite"/></use>
+    <use href="#b" x="272" y="40"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></use>
+    <use href="#b" x="216" y="54"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0s" repeatCount="indefinite"/></use>
+    <use href="#b" x="272" y="54"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></use>
+    <use href="#b" x="216" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0s" repeatCount="indefinite"/></use>
+    <use href="#b" x="230" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.06s" repeatCount="indefinite"/></use>
+    <use href="#b" x="244" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.12s" repeatCount="indefinite"/></use>
+    <use href="#b" x="258" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.18s" repeatCount="indefinite"/></use>
+    <use href="#b" x="272" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></use>
+    <use href="#b" x="216" y="82"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0s" repeatCount="indefinite"/></use>
+    <use href="#b" x="272" y="82"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></use>
+    <use href="#b" x="216" y="96"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0s" repeatCount="indefinite"/></use>
+    <use href="#b" x="272" y="96"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></use>
+    <use href="#b" x="216" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0s" repeatCount="indefinite"/></use>
+    <use href="#b" x="272" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></use>
+
+    <use href="#b" x="300" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.36s" repeatCount="indefinite"/></use>
+    <use href="#b" x="314" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.42s" repeatCount="indefinite"/></use>
+    <use href="#b" x="328" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.48s" repeatCount="indefinite"/></use>
+    <use href="#b" x="314" y="40"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.42s" repeatCount="indefinite"/></use>
+    <use href="#b" x="314" y="54"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.42s" repeatCount="indefinite"/></use>
+    <use href="#b" x="314" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.42s" repeatCount="indefinite"/></use>
+    <use href="#b" x="314" y="82"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.42s" repeatCount="indefinite"/></use>
+    <use href="#b" x="314" y="96"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.42s" repeatCount="indefinite"/></use>
+    <use href="#b" x="300" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.36s" repeatCount="indefinite"/></use>
+    <use href="#b" x="314" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.42s" repeatCount="indefinite"/></use>
+    <use href="#b" x="328" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.48s" repeatCount="indefinite"/></use>
+
+    <use href="#b" x="356" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></use>
+    <use href="#b" x="370" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.66s" repeatCount="indefinite"/></use>
+    <use href="#b" x="384" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.72s" repeatCount="indefinite"/></use>
+    <use href="#b" x="398" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.78s" repeatCount="indefinite"/></use>
+    <use href="#b" x="412" y="26"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.84s" repeatCount="indefinite"/></use>
+    <use href="#b" x="356" y="40"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></use>
+    <use href="#b" x="356" y="54"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></use>
+    <use href="#b" x="370" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.66s" repeatCount="indefinite"/></use>
+    <use href="#b" x="384" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.72s" repeatCount="indefinite"/></use>
+    <use href="#b" x="398" y="68"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.78s" repeatCount="indefinite"/></use>
+    <use href="#b" x="412" y="82"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.84s" repeatCount="indefinite"/></use>
+    <use href="#b" x="412" y="96"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.84s" repeatCount="indefinite"/></use>
+    <use href="#b" x="356" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></use>
+    <use href="#b" x="370" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.66s" repeatCount="indefinite"/></use>
+    <use href="#b" x="384" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.72s" repeatCount="indefinite"/></use>
+    <use href="#b" x="398" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.78s" repeatCount="indefinite"/></use>
+    <use href="#b" x="412" y="110"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.84s" repeatCount="indefinite"/></use>
+  </g>
+  <text x="50%" y="152" text-anchor="middle" fill="#7DE8F5" font-family="monospace,Consolas,monospace" font-size="12">
+Ais1007 • Mahasiswa Teknologi Informasi • Web • Python • Creative
+  </text>
+</svg>
