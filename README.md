@@ -98,7 +98,7 @@ Bahasa pemrograman dan tools yang sedang dipelajari:
 
   <!-- ===== STREAK STATS CARD (CREAM & ORANGE) ===== -->
   <a href="https://github.com/Ais1007">
-    <img src="https://streak-stats.demolab.com/?user=Ais1007&background=FDF6E7&border=0D1117&stroke=A10325&ring=D97127&fire=D97127&currStreakNum=A10325&sideNums=D97127&currStreakLabel=A10325&sideLabels=40150A&dates=666666&border_radius=12&card_width=510&card_height=207" alt="Aiss's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Ais1007&background=FDF6E7&border=0D1117&stroke=A10325&ring=D97127&fire=D97127&currStreakNum=A10325&sideNums=D97127&currStreakLabel=A10325&sideLabels=40150A&dates=666666&border_radius=12&card_width=510&card_height=207&v=20261031" alt="Aiss's GitHub Streak" />
   </a>
 </div>
 
